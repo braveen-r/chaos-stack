@@ -29,3 +29,6 @@ Thumbs.db
 # Logs & Systemd local dumps
 *.log
 journal/
+
+dashboard/node_modules/
+dashboard/dist/

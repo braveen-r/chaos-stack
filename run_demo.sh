@@ -8,7 +8,7 @@ CYAN='\033[0;36m'
 NC='\033[0m'
 
 CHAOS_DIR="$HOME/Projects/chaos-stack"
-DASHBOARD_DIR="$HOME/Projects/capstone-dashboard"
+DASHBOARD_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" DASHBOARD_DIR="$HOME/Projects/capstone-dashboard"DASHBOARD_DIR="$HOME/Projects/capstone-dashboard" pwd)/dashboard"
 PYTHON_BIN="$CHAOS_DIR/venv/bin/python"
 
 cleanup() {
