@@ -82,7 +82,7 @@ chaos-stack/
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/Braveen811/chaos-stack.git](https://github.com/Braveen811/chaos-stack.git)
+git clone [https://github.com/braveen-r/chaos-stack.git](https://github.com/braveen-r/chaos-stack.git)
 cd chaos-stack
 
 ```
